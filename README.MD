@@ -16,6 +16,7 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+
+git clone https://github.com/FendiJatmiko/lorero-devops-pactical-evaluation.git
+cd lorero-devops-pactical-evaluation.git
 
