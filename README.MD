@@ -21,14 +21,15 @@ git clone https://github.com/FendiJatmiko/lorero-devops-pactical-evaluation.git
 cd lorero-devops-pactical-evaluation.git
 ```
 looking for the docker-compose build and run this: 
+
 ```
 docker-compose up --build
 ```
 
 ## Accessing the Application and Monitoring Tools\
-   NestJS Application: http://localhost:3000\
-   Prometheus: http://localhost:9090\
-   Grafana: http://localhost:3001 (default login is admin / admin) \
+   NestJS Application: http://localhost:3000
+   Prometheus: http://localhost:9090
+   Grafana: http://localhost:3001 (default login is admin / admin) 
 
 ## Set Up Grafana Dashboard \
    Open Grafana at http://localhost:3001. \
