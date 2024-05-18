@@ -44,3 +44,8 @@ docker-compose up --build
    Choose Prometheus and set the URL to http://prometheus:9090
    Create a new dashboard and add panels to visualize metrics.
 ```
+
+## Access the apps
+```
+curl http://localhost:3000/nyobiv1
+```
