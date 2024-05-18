@@ -24,12 +24,12 @@ looking for the docker-compose build and run this:
 
 ```
 docker-compose up --build
-```
+
 
 ## Accessing the Application and Monitoring Tools
 
    NestJS Application: http://localhost:3000\
-   Prometheus: http://localhost:9090\
+   Prometheus: http://localhost:9090
    Grafana: http://localhost:3001 (default login is admin / admin) 
 
 
